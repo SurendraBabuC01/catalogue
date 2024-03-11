@@ -1,1 +1,2 @@
 appName: catalogue
+params: "prod.catalogue.mongodb_endpoint prod.catalogue.documentdb prod.catalogue.mongodb_url"
